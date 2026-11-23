@@ -2,7 +2,7 @@
 #include <string.h>
 
 char* get_flag() {
-    static char enc[] = "%064;.1,;a8d6(";
+    static char enc[] = "''.1,;a8d6(";
 
     int key = 0x55;
 
